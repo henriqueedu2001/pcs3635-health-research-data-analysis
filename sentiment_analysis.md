@@ -23,6 +23,7 @@ This discipline was a disaster. I'm now afraid this will be worse in labdigi 2.
 
 
 ## R_3_monday
+**Original**:
 A disciplina é de fato desproporcional e acaba limitando o próprio aprendizado da matéria. É muito fácil perder a mão na quantidade de tempo dedicado, negligenciando o estudo das demais disciplinas. 
 A primeira parte, de experimentos, é pouco mais adequada. Porém, nas semanas de projeto a disciplina desvia completamente seu propósito. Quase sem orientação sobre a dificuldade e necessidades do projeto, o aluno fica sem ideia do que irá enfrentar nas semanas dedicadas a ele. Prevendo isso, em meu grupo decidimos escolher um tema relativamente simples e que, mesmo assim, demandou muito esforço.
 Requisitos como montagem de maquete acabam desviando do escopo da disciplina. Em determinado ponto, é necessário escolher entre se dedicar totalmente ao projeto ou apenas fazer o mínimo que permita a manutenção da saúde e integridade pessoal, e isso é muito ruim em qualquer disciplina. Por isso, a capacidade e dedicação tão atribuídas aos alunos politécnicos acabam sendo desperdiçadas.
