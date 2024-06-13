@@ -6,8 +6,8 @@ O presente estudo segue rigorosamente o método científico durante toda sua ext
 
 # Conteúdo
 A pesquisa possui três partes:
-- Pesquisa Acadêmica (PA_1 - PA_12)
-- Pesquisa de Saúde
+- Pesquisa Acadêmica (**PA_1** - **PA_12**)
+- Pesquisa de Saúde (**PS_1** - **PS_8**)
 - Levantamento acadêmico comparativo
 
 # Concluões
